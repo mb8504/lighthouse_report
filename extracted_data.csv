@@ -1,0 +1,10 @@
+ID,Score
+performance,0.99
+accessibility,0.89
+best-practices,0.93
+seo,0.92
+first-contentful-paint,1.6 s
+largest-contentful-paint,1.6 s
+total-blocking-time,0 ms
+cumulative-layout-shift,0.036
+speed-index,1.6 s
