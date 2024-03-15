@@ -1,0 +1,13 @@
+﻿Month,performance,accessibility,best-practices,seo,first-contentful-paint,largest-contentful-paint,total-blocking-time,cumulative-layout-shift,speed-index
+January,
+February,
+March,0.99,0.89,0.93,0.92,1.6,1.6,0,0.036,1.6
+April,,,,,,,,,
+May,0.99,0.89,0.93,0.92,1.6,1.6,0,0.036,1.6
+June,,,,,,,,,
+July,,,,,,,,,
+August,,,,,,,,,
+September,,,,,,,,,
+October,,,,,,,,,
+November,,,,,,,,,
+December,,,,,,,,,

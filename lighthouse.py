@@ -1,5 +1,3 @@
-import schedule
-import time
 import subprocess
 import json
 import csv
