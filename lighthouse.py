@@ -4,7 +4,7 @@ import csv
 
 
 def run_lighthouse():
-    command = "lighthouse https://mbwebdeveloper.com/ --output=json --output-path=/Users/mikeberg/Desktop/lighthouse/report.json"
+    command = "lighthouse https://summer.stanford.edu/facebookads/ --output=json --output-path=/Users/mikeberg/Desktop/lighthouse/report.json"
     subprocess.run(command, shell=True)
     convert_to_csv()
 
